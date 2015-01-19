@@ -43,6 +43,9 @@ div.bar {
 div.title h4, span.number {
   color: $orange;
 }
+span.number{
+  font-weight: 700;
+}
 p, .light-gray {
   color: $light;
   font-weight: lighter;
